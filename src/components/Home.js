@@ -17,8 +17,7 @@ const Home = () => {
           <p className="intro-description">
             A passionate Frontend Developer specializing in React.js, with expertise in JavaScript, HTML, and CSS. I create responsive, user-friendly interfaces and integrate with RESTful APIs. Always eager to learn and adapt to new technologies.
           </p>
-          <a href="/resume.pdf" download className="download-resume">Download Resume</a>
-        </div>
+          <a href="/Aishwarya-Anaspure-Resume.pdf" download className="download-resume">Download Resume</a>        </div>
         <div className="tech-stack">
           <h2>Tech Stack</h2>
           <div className="tech-stack-images">

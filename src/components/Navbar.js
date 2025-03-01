@@ -11,8 +11,8 @@ const Navbar = () => {
         <li><Link to="/about">About</Link></li>
         <li><Link to="/projects">Projects</Link></li>
         <li><Link to="/contact">Contact</Link></li>
-        <li><a href="/resume.pdf" download>Resume</a></li> {/* Ensure this links to your resume */}
-      </ul>
+        <li><a href="/Aishwarya-Anaspure-Resume.pdf" download>Resume</a></li>     
+        </ul>
     </nav>
   );
 };
