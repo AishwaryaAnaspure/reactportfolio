@@ -1,0 +1,23 @@
+.about {
+    padding: 2rem;
+  }
+  
+  .skill-bar {
+    margin-bottom: 1rem;
+  }
+  
+  .skill-bar span {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .bar {
+    background-color: #ecf0f1;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .level {
+    background-color: #3498db;
+    height: 10px;
+  }
